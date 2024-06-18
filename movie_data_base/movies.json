@@ -1,0 +1,22 @@
+{
+    "God Father": {
+        "rating": "5.7",
+        "year": "2020",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOGYzODZhMmYtODI0Yy00ZTliLTgwMzYtN2Y3YjAxOTgxMDY0XkEyXkFqcGdeQXVyMTEzNTkzNzI2._V1_SX300.jpg"
+    },
+    "Baby's Day Out": {
+        "rating": "6.2",
+        "year": "1994",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzI3NmQ1ZDUtZWQ1My00NzlkLWE5OGQtZjZkYWJmYzYwY2QxXkEyXkFqcGdeQXVyNDQ2MTMzODA@._V1_SX300.jpg"
+    },
+    "Punisher": {
+        "rating": "6.3",
+        "year": "1988",
+        "poster": "N/A"
+    },
+    "Troy": {
+        "rating": "7.3",
+        "year": "2004",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTk5MzU1MDMwMF5BMl5BanBnXkFtZTcwNjczODMzMw@@._V1_SX300.jpg"
+    }
+}
