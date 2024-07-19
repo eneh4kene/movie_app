@@ -13,7 +13,6 @@ This project includes a movie application and multiple data storage utilities. T
 ## Requirements
 
 - Python 3.x
-- Flask (for web functionalities)
 - JSON
 - CSV
 
@@ -21,7 +20,7 @@ This project includes a movie application and multiple data storage utilities. T
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/movie-data-storage.git
+   git clone https://github.com/eneh4kene/movie_app.git
    cd movie-data-storage
    ```
 
@@ -41,7 +40,6 @@ This project includes a movie application and multiple data storage utilities. T
    python main.py
    ```
 
-5. **Open your browser and navigate to** `http://127.0.0.1:5000`
 
 ## Usage
 
